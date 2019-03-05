@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="backend.svg"
+   inkscape:export-filename="/Users/jonathan/Documents/Programming/Tutorials/Flutter/backend/api.png"
+   inkscape:export-xdpi="142.813"
+   inkscape:export-ydpi="142.813">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="163.44518"
+     inkscape:cy="933.13192"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       width="43.832203"
+       height="20.312483"
+       x="86.862602"
+       y="81.84803"
+       inkscape:export-xdpi="142.813"
+       inkscape:export-ydpi="142.813" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="102.09696"
+       y="94.676971"
+       id="text833"
+       inkscape:export-xdpi="142.813"
+       inkscape:export-ydpi="142.813"><tspan
+         sodipodi:role="line"
+         id="tspan831"
+         x="102.09696"
+         y="94.676971"
+         style="stroke-width:0.26458332">API</tspan></text>
+    <g
+       id="g871"
+       transform="translate(0,4.2333333)">
+      <rect
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         y="61.535545"
+         x="33.94323"
+         height="10.958051"
+         width="30.468725"
+         id="rect825"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         id="text853"
+         y="69.286362"
+         x="36.081387"
+         style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="69.286362"
+           x="36.081387"
+           id="tspan851"
+           sodipodi:role="line">Node.js</tspan></text>
+      <path
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         inkscape:connector-curvature="0"
+         id="path873"
+         d="M 64.411957,72.493599 C 86.862601,81.84803 86.862601,81.84803 86.862601,81.84803"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g865"
+       transform="translate(0,4.1010417)">
+      <rect
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         y="81.313484"
+         x="30.468725"
+         height="12.561667"
+         width="32.072342"
+         id="rect827"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         id="text857"
+         y="90.133385"
+         x="38.540264"
+         style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="90.133385"
+           x="38.540264"
+           id="tspan855"
+           sodipodi:role="line">Rails</tspan></text>
+      <path
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         inkscape:connector-curvature="0"
+         id="path875"
+         d="m 62.528051,87.995227 24.067274,0.267272 v 0 -0.267272"
+         style="fill:none;stroke:#000000;stroke-width:0.28991491px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g859"
+       transform="translate(-0.20507444,2.8386488)">
+      <rect
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         y="108.00334"
+         x="34.975208"
+         height="9.9631796"
+         width="24.930271"
+         id="rect829"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.19079296;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         id="text861"
+         y="115.28345"
+         x="39.555889"
+         style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="115.28345"
+           x="39.555889"
+           id="tspan859"
+           sodipodi:role="line">Dart</tspan></text>
+      <path
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         inkscape:connector-curvature="0"
+         id="path877"
+         d="m 59.857705,107.99939 27.07768,-12.646274 v 0"
+         style="fill:none;stroke:#000000;stroke-width:0.27344647px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g883"
+       transform="translate(0,-2.6458333)">
+      <rect
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         y="120.89757"
+         x="152.10454"
+         height="11.970755"
+         width="49.655754"
+         id="rect823"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.32137385;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         id="text849"
+         y="129.15472"
+         x="155.28358"
+         style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="129.15472"
+           x="155.28358"
+           id="tspan847"
+           sodipodi:role="line">ReactNative</tspan></text>
+      <path
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         inkscape:connector-curvature="0"
+         id="path881"
+         d="M 152.10454,120.89757 130.69481,102.16051"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g895"
+       transform="translate(0.16536458,0.00826823)">
+      <rect
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         y="79.175331"
+         x="158.7581"
+         height="10.156241"
+         width="31.003265"
+         id="rect819"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         id="text841"
+         y="86.445061"
+         x="168.48671"
+         style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="86.445061"
+           x="168.48671"
+           id="tspan839"
+           sodipodi:role="line">iOS</tspan></text>
+      <path
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         inkscape:connector-curvature="0"
+         id="path885"
+         d="m 158.73563,84.65436 -28.17447,6.949006"
+         style="fill:none;stroke:#000000;stroke-width:0.29999134px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g877"
+       transform="translate(0.03874734,3.0427083)">
+      <rect
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         y="59.966579"
+         x="151.57646"
+         height="11.957819"
+         width="36.279346"
+         id="rect817"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.33430892;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         id="text837"
+         y="68.751823"
+         x="156.0854"
+         style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="68.751823"
+           x="156.0854"
+           id="tspan835"
+           sodipodi:role="line">Android</tspan></text>
+      <path
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         inkscape:connector-curvature="0"
+         id="path887"
+         d="M 151.57646,71.924399 130.69481,81.84803"
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g889"
+       transform="translate(0,-1.3229167)">
+      <rect
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         y="100.02235"
+         x="153.4127"
+         height="11.22532"
+         width="29.934185"
+         id="rect821"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         id="text845"
+         y="108.04044"
+         x="157.15448"
+         style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="108.04044"
+           x="157.15448"
+           id="tspan843"
+           sodipodi:role="line">Flutter</tspan></text>
+      <path
+         inkscape:export-ydpi="142.813"
+         inkscape:export-xdpi="142.813"
+         inkscape:connector-curvature="0"
+         id="path889"
+         d="M 153.4105,105.90347 130.76114,96.773855"
+         style="fill:none;stroke:#000000;stroke-width:0.26210439px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
