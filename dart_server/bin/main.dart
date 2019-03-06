@@ -15,3 +15,8 @@ Future main() async {
   print("Application started on port: ${app.options.port}.");
   print("Use Ctrl-C (SIGINT) to stop running the application.");
 }
+
+// When starting the Aqueduct server using `aqueduct serve` this
+// file is ignored. See https://stackoverflow.com/q/54964706/3681880
+// 
+// To use this file start the server using `dart bin/main.dart`
