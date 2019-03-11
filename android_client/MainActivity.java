@@ -48,15 +48,15 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void makePatchRequest(View view) {
-        int idToReplace = 0;
-        String url = HOST + "/" + idToReplace;
+        int idToUpdate = 0;
+        String url = HOST + "/" + idToUpdate;
         String json = "{\"color\": \"green\"}";
         new HttpPatchRequest().execute(url, json);
     }
 
     public void makeDeleteRequest(View view) {
-        int idToReplace = 0;
-        String url = HOST + "/" + idToReplace;
+        int idToDelete = 0;
+        String url = HOST + "/" + idToDelete;
         new HttpDeleteRequest().execute(url);
     }
 
